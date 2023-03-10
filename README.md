@@ -1,4 +1,7 @@
 # CTIS-164 Technical Mathematics with Programming
+
+The main focus of this course is to improve the ability of using advanced mathematics such as trigonometry, vectors, matrices and analytic geometry in general coding. 
+
 --------My CTIS164 Homeworks--------
 
 1- Tank Animation Game
